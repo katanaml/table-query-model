@@ -52,4 +52,4 @@ docker run -it -d --name table-query -p 7000:7000  katanaml/table-query:latest
 
 ## License
 
-Licensed under the Apache License, Version 2.0. Copyright 2020-2021 Katana ML, Andrej Baranovskij. [Copy of the license](https://github.com/katanaml/text-completion/blob/main/LICENSE).
+Licensed under the Apache License, Version 2.0. Copyright 2020-2021 Katana ML, Andrej Baranovskij. [Copy of the license](https://github.com/katanaml/table-query-model/blob/main/LICENSE).
