@@ -47,6 +47,7 @@ def execute_query(query, csv_file):
         "query": query,
         "result": answers
     }
+    print(query_result)
 
     b = datetime.datetime.now()
     print(b - a)
