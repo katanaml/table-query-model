@@ -119,3 +119,5 @@ dmypy.json
 .idea/modules.xml
 .idea/table-query-model.iml
 .idea/vcs.xml
+gradio_queue.db
+gradio_queue.db-journal
