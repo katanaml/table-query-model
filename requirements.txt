@@ -1,4 +1,5 @@
-gradio==2.6.0
+gradio==2.7.5
 tensorflow==2.7.0
 transformers==4.13.0
 tensorflow_probability
+jinja2
